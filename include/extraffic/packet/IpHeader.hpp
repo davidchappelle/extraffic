@@ -1,5 +1,5 @@
-#ifndef EXINDA_PACKET_IP_HEADER_HPP
-#define EXINDA_PACKET_IP_HEADER_HPP
+#ifndef EXTRAFFIC_PACKET_IP_HEADER_HPP
+#define EXTRAFFIC_PACKET_IP_HEADER_HPP
 
 
 #include <string>
@@ -157,4 +157,4 @@ class IpHeader
 } // namespace extraffic
 
 
-#endif // EXINDA_PACKET_IP_HEADER_HPP
+#endif // EXTRAFFIC_PACKET_IP_HEADER_HPP

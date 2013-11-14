@@ -1,5 +1,5 @@
-#ifndef EXINDA_PACKET_ETHER_HEADER_HPP
-#define EXINDA_PACKET_ETHER_HEADER_HPP
+#ifndef EXTRAFFIC_PACKET_ETHER_HEADER_HPP
+#define EXTRAFFIC_PACKET_ETHER_HEADER_HPP
 
 
 #include <string>
@@ -108,4 +108,4 @@ class EtherHeader
 } // namespace extraffic
 
 
-#endif // EXINDA_PACKET_ETHER_HEADER_HPP
+#endif // EXTRAFFIC_PACKET_ETHER_HEADER_HPP

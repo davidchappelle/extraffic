@@ -1,5 +1,5 @@
-#ifndef EXINDA_PACKET_UDP_HEADER_HPP
-#define EXINDA_PACKET_UDP_HEADER_HPP
+#ifndef EXTRAFFIC_PACKET_UDP_HEADER_HPP
+#define EXTRAFFIC_PACKET_UDP_HEADER_HPP
 
 
 #include <cstddef>
@@ -86,4 +86,4 @@ class UdpHeader
 } // namespace extraffic
 
 
-#endif // EXINDA_PACKET_UDP_HEADER_HPP
+#endif // EXTRAFFIC_PACKET_UDP_HEADER_HPP
